@@ -1,0 +1,6 @@
+pee,100
+yee,400
+masteryee,500
+uncle,700
+Player1,5300
+Player,5800
