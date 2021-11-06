@@ -1,0 +1,10 @@
+1, A Good Day Tour, 20, A
+2, Backpackers, 10, A
+3, Cool Trip, 60, C
+4, Discover Bangkok, 25, C
+5, ETC Travel, 45, C
+6, Food and Fun, 30, A
+7, Phu Chareon Tour, 20, C
+8, Ghost Lovers' club, 66, A
+9, Anya  Taylor Joy fans club, 10, A
+10, Rayong Hi, 40, C
