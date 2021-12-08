@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1589212197 source:d:\w o r k\egco100\project\covid free kitchen\ll.cpp
+	<iostream>
+	"NODE.h"
+	"LL.h"
+
+1589388158 d:\w o r k\egco100\project\covid free kitchen\node.h
+
+1589216309 d:\w o r k\egco100\project\covid free kitchen\ll.h
+
+1588424701 source:d:\w o r k\egco100\project\covid free kitchen\node.cpp
+	<iostream>
+
+1589515613 source:d:\w o r k\egco100\project\covid free kitchen\ll_test.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<fstream>
+	<windows.h>
+	<exception>
+	<cmath>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"kitchen.h"
+
+1589526291 d:\w o r k\egco100\project\covid free kitchen\kitchen.h
+	<iostream>
+	<sstream>
+	<cstdlib>
+	<conio.h>
+	<windows.h>
+	<string>
+	<cstring>
+	<cstdio>
+	<ctime>
+	<graphics.h>
+	<fstream>
+	"ingre.h"
+	"NODE.h"
+	"LL.h"
+
+1588230461 d:\w o r k\egco100\project\covid free kitchen\gotoxy.h
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<windows.h>
+
+1589210142 d:\w o r k\egco100\project\covid free kitchen\menu.h
+	<iostream>
+
+1589458968 d:\w o r k\egco100\project\covid free kitchen\ingre.h
+	<iostream>
+	"gotoXY.h"
+
+1589459229 source:d:\w o r k\egco100\project\covid free kitchen\menu.cpp
+	<iostream>
+	"NODE.h"
+
+1589450609 source:d:\w o r k\egco100\project\covid free kitchen\leaderboard.cpp
+	<iostream>
+	<windows.h>
+	"gotoXY.h"
+
+1589528344 source:d:\w o r k\egco100\project\covid free kitchen\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<fstream>
+	<windows.h>
+	<exception>
+	<cmath>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"kitchen.h"
+
